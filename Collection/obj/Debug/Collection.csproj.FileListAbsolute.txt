@@ -1,0 +1,8 @@
+G:\C#\Collection\Collection\bin\Debug\Collection.exe.config
+G:\C#\Collection\Collection\bin\Debug\Collection.exe
+G:\C#\Collection\Collection\bin\Debug\Collection.pdb
+G:\C#\Collection\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
+G:\C#\Collection\Collection\obj\Debug\Collection.csproj.SuggestedBindingRedirects.cache
+G:\C#\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+G:\C#\Collection\Collection\obj\Debug\Collection.exe
+G:\C#\Collection\Collection\obj\Debug\Collection.pdb
